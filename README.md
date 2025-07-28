@@ -1,3 +1,10 @@
+# NVIDIA RAG Blueprint
+
+This documentation is pulled to learn about the NVIDIA RAG Blueprint and LangChain. To read more about the documentation, please go to [Build an Enterprise RAG pipeline](https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline).
+
+	git remote add upstream https://github.com/NVIDIA-AI-Blueprints/rag.git
+	git pull upstream main
+
 <h1><img align="center" src="https://github.com/user-attachments/assets/cbe0d62f-c856-4e0b-b3ee-6184b7c4d96f">NVIDIA RAG Blueprint</h1>
 
 Use this documentation to learn about the NVIDIA RAG Blueprint.
